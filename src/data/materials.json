@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Oak Flooring",
+        "price": 150,
+        "image": "/images/oak.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Bamboo Flooring",
+        "price": 120,
+        "image": "/images/bamboo.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Marble Countertop",
+        "price": 300,
+        "image": "/images/marble.png"
+    }
+]
